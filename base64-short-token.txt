@@ -1,0 +1,3 @@
+# short token test with special binary character
+
+NFB6Ry85aTZ1empQZlN5czlDZ3A1dfRLSjcxR01GY21uZGRuUVoyM3RlTQ==
